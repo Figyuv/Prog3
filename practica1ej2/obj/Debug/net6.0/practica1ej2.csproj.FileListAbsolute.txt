@@ -1,0 +1,15 @@
+D:\Visual Studio\proyectosvs\practica1ej2\obj\Debug\net6.0\practica1ej2.csproj.AssemblyReference.cache
+D:\Visual Studio\proyectosvs\practica1ej2\obj\Debug\net6.0\practica1ej2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\proyectosvs\practica1ej2\obj\Debug\net6.0\practica1ej2.AssemblyInfoInputs.cache
+D:\Visual Studio\proyectosvs\practica1ej2\obj\Debug\net6.0\practica1ej2.AssemblyInfo.cs
+D:\Visual Studio\proyectosvs\practica1ej2\obj\Debug\net6.0\practica1ej2.csproj.CoreCompileInputs.cache
+D:\Visual Studio\proyectosvs\practica1ej2\bin\Debug\net6.0\practica1ej2.exe
+D:\Visual Studio\proyectosvs\practica1ej2\bin\Debug\net6.0\practica1ej2.deps.json
+D:\Visual Studio\proyectosvs\practica1ej2\bin\Debug\net6.0\practica1ej2.runtimeconfig.json
+D:\Visual Studio\proyectosvs\practica1ej2\bin\Debug\net6.0\practica1ej2.dll
+D:\Visual Studio\proyectosvs\practica1ej2\bin\Debug\net6.0\ref\practica1ej2.dll
+D:\Visual Studio\proyectosvs\practica1ej2\bin\Debug\net6.0\practica1ej2.pdb
+D:\Visual Studio\proyectosvs\practica1ej2\obj\Debug\net6.0\practica1ej2.dll
+D:\Visual Studio\proyectosvs\practica1ej2\obj\Debug\net6.0\ref\practica1ej2.dll
+D:\Visual Studio\proyectosvs\practica1ej2\obj\Debug\net6.0\practica1ej2.pdb
+D:\Visual Studio\proyectosvs\practica1ej2\obj\Debug\net6.0\practica1ej2.genruntimeconfig.cache
