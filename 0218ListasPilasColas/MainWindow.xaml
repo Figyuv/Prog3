@@ -1,0 +1,16 @@
+﻿<Window x:Class="_0218ListasPilasColas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_0218ListasPilasColas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="701">
+    <Grid>
+        <ListBox x:Name="lstOut" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="112,85,112,170" FontFamily="Cascadia Code SemiBold"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,10,0,0" TextWrapping="Wrap" Text="Equipos Escuala Superior" VerticalAlignment="Top" Height="70" Width="428" FontFamily="Cascadia Code SemiBold" FontSize="30"/>
+        <Button x:Name="btnIngresar" Content="Ingrear Datos" HorizontalAlignment="Left" Margin="112,297,0,0" VerticalAlignment="Top" Height="41" Width="114" FontFamily="Cascadia Code SemiBold"/>
+        <Button x:Name="btnShow" Content="Muestra Datos" HorizontalAlignment="Left" Margin="236,297,0,0" VerticalAlignment="Top" Height="41" Width="114" FontFamily="Cascadia Code SemiBold" Click="btnShow_Click"/>
+        <Button x:Name="btnExit" Content="SALIR" HorizontalAlignment="Left" Margin="495,297,0,0" VerticalAlignment="Top" Height="41" Width="94" FontFamily="Cascadia Code SemiBold"/>
+    </Grid>
+</Window>

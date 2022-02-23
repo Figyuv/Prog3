@@ -1,0 +1,31 @@
+﻿<Window x:Class="CalviArceDavid_PRG_III__A__Práctica2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CalviArceDavid_PRG_III__A__Práctica2"
+        mc:Ignorable="d"
+        Title="Panchita" Height="430" Width="704" FontFamily="Cascadia Code SemiBold">
+    <Grid>
+        <ListView x:Name="lstMenu" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="396,0,0,0" FontFamily="Cascadia Code SemiBold">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ComboBox x:Name="cmbAdd" HorizontalAlignment="Left" Margin="108,28,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="chngCmmAdd"/>
+        <ComboBox x:Name="cmbRest" HorizontalAlignment="Left" Margin="108,53,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnFiltrar" Content="Filtrar" HorizontalAlignment="Left" Margin="108,78,0,0" VerticalAlignment="Top" Height="21" Width="63" Click="btnFiltrar_Click"/>
+        <Button x:Name="btnReset" Content="Reset" HorizontalAlignment="Left" Margin="352,10,0,0" VerticalAlignment="Top" Click="btnReset_Click"/>
+        <Button x:Name="btnIngredients" Content="Ingredientes" HorizontalAlignment="Left" Margin="303,35,0,0" VerticalAlignment="Top" Click="btnIngredients_Click"/>
+        <TextBox x:Name="txtId" HorizontalAlignment="Left" Margin="129,176,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="31"/>
+        <TextBox x:Name="txtQuant" HorizontalAlignment="Left" Margin="129,212,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="31"/>
+        <Label Content="Con:" HorizontalAlignment="Left" Margin="51,26,0,0" VerticalAlignment="Top"/>
+        <Label Content="Sin:" HorizontalAlignment="Left" Margin="51,51,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnBuy" Content="Comprar" HorizontalAlignment="Left" Margin="129,257,0,0" VerticalAlignment="Top" Height="37" Width="82" Click="btnBuy_Click"/>
+        <Label Content="Id" HorizontalAlignment="Left" Margin="100,180,0,0" VerticalAlignment="Top"/>
+        <Label Content="Cantidad" HorizontalAlignment="Left" Margin="58,216,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
