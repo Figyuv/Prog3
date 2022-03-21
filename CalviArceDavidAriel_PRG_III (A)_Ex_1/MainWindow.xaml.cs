@@ -34,25 +34,16 @@ namespace CalviArceDavidAriel_PRG_III__A__Ex_1
             string nombre = txtAddPark.Text;
             string juego = txtNewGame.Text;
             int capacidad = int.Parse(txtCapacity.Text);
-            if (juego == null)
+            juegoQueue.Enqueue(new Juego()
             {
-                juegoQueue.Enqueue(null);
-            }
-            else
+                GameName=juego,
+                maxCapacity=capacidad,
+            });
+            parques.Add(new Parque()
             {
-                
-                juegoQueue.Enqueue(new Juego()
-                {
-                    GameName = juego,
-                    maxCapacity = capacidad,
-                });
-                parques.Add(new Parque()
-                {
-                    ParkName = nombre,
-                    Games = juegoQueue
-                });
-            }
-            
+                ParkName = nombre,
+                Games = juegoQueue
+            });
             AddCmb();
         }
         void AddCmb()
