@@ -1,0 +1,24 @@
+﻿<Window x:Class="CalviArceDavidAriel_PRG_III__A__Ex_1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CalviArceDavidAriel_PRG_III__A__Ex_1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="376" Width="610">
+    <Grid>
+        <ListBox x:Name="lstShow" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="334,0,0,0"/>
+        <Button x:Name="btnAdd" Content="Agregar Juego" HorizontalAlignment="Left" Margin="176,141,0,0" VerticalAlignment="Top" Click="btnAdd_Click"/>
+        <Button x:Name="btnDequeGame" Content="Quitar Juego" HorizontalAlignment="Left" Margin="176,105,0,0" VerticalAlignment="Top" Width="81" Click="btnDequeGame_Click"/>
+        <Button x:Name="btnShow" Content="Mostrar" HorizontalAlignment="Center" Margin="0,180,0,0" VerticalAlignment="Top" Click="btnShow_Click"/>
+        <ComboBox x:Name="cmbParks" HorizontalAlignment="Left" Margin="10,20,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtNewGame" HorizontalAlignment="Left" Margin="10,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtAddPark" HorizontalAlignment="Left" Margin="162,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnAddPark" Content="Agregar Parque" HorizontalAlignment="Left" Margin="176,43,0,0" VerticalAlignment="Top" Click="btnAddPark_Click"/>
+        <TextBox x:Name="txtCapacity" HorizontalAlignment="Left" Margin="10,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnShowGames" Content="Mostarr Juegos" HorizontalAlignment="Left" Margin="20,53,0,0" VerticalAlignment="Top" Click="btnShowGames_Click"/>
+        <Label Content="NombreJuego" HorizontalAlignment="Left" Margin="10,125,0,0" VerticalAlignment="Top"/>
+        <Label Content="CapacidadJuego" HorizontalAlignment="Left" Margin="10,164,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

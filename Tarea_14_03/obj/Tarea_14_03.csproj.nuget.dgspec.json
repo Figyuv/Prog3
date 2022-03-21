@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Univalle cosas\\3 SEMESTRE\\PROG3\\Tarea_14_03\\Tarea_14_03.csproj": {}
+    "D:\\Univalle\\3 SEMESTRE\\Prog3\\Tarea_14_03\\Tarea_14_03.csproj": {}
   },
   "projects": {
-    "D:\\Univalle cosas\\3 SEMESTRE\\PROG3\\Tarea_14_03\\Tarea_14_03.csproj": {
+    "D:\\Univalle\\3 SEMESTRE\\Prog3\\Tarea_14_03\\Tarea_14_03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Univalle cosas\\3 SEMESTRE\\PROG3\\Tarea_14_03\\Tarea_14_03.csproj",
+        "projectUniqueName": "D:\\Univalle\\3 SEMESTRE\\Prog3\\Tarea_14_03\\Tarea_14_03.csproj",
         "projectName": "Tarea_14_03",
-        "projectPath": "D:\\Univalle cosas\\3 SEMESTRE\\PROG3\\Tarea_14_03\\Tarea_14_03.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "D:\\Univalle cosas\\3 SEMESTRE\\PROG3\\Tarea_14_03\\obj\\",
+        "projectPath": "D:\\Univalle\\3 SEMESTRE\\Prog3\\Tarea_14_03\\Tarea_14_03.csproj",
+        "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
+        "outputPath": "D:\\Univalle\\3 SEMESTRE\\Prog3\\Tarea_14_03\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +60,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
