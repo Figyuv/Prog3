@@ -134,7 +134,7 @@ namespace CalviArceDavidAriel_Arbol_decisiones
             }
             else
             {
-                respuesta = int.Parse(Microsoft.VisualBasic.Interaction.InputBox(cadena, "Escriba NO para No y 1 para SI"));
+                respuesta = int.Parse(Interaction.InputBox(cadena, "Escriba NO para No y 1 para SI"));
                 if (respuesta == 0)
                 {
                     return false;

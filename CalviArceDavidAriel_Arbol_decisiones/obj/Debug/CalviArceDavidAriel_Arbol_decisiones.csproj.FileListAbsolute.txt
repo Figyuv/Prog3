@@ -1,0 +1,16 @@
+D:\Univalle\3 SEMESTRE\Prog3\CalviArceDavidAriel_Arbol_decisiones\bin\Debug\CalviArceDavidAriel_Arbol_decisiones.exe.config
+D:\Univalle\3 SEMESTRE\Prog3\CalviArceDavidAriel_Arbol_decisiones\bin\Debug\CalviArceDavidAriel_Arbol_decisiones.exe
+D:\Univalle\3 SEMESTRE\Prog3\CalviArceDavidAriel_Arbol_decisiones\bin\Debug\CalviArceDavidAriel_Arbol_decisiones.pdb
+D:\Univalle\3 SEMESTRE\Prog3\CalviArceDavidAriel_Arbol_decisiones\obj\Debug\CalviArceDavidAriel_Arbol_decisiones.csproj.AssemblyReference.cache
+D:\Univalle\3 SEMESTRE\Prog3\CalviArceDavidAriel_Arbol_decisiones\obj\Debug\CalviArceDavidAriel_Arbol_decisiones.csproj.SuggestedBindingRedirects.cache
+D:\Univalle\3 SEMESTRE\Prog3\CalviArceDavidAriel_Arbol_decisiones\obj\Debug\MainWindow.g.cs
+D:\Univalle\3 SEMESTRE\Prog3\CalviArceDavidAriel_Arbol_decisiones\obj\Debug\App.g.cs
+D:\Univalle\3 SEMESTRE\Prog3\CalviArceDavidAriel_Arbol_decisiones\obj\Debug\CalviArceDavidAriel_Arbol_decisiones_MarkupCompile.cache
+D:\Univalle\3 SEMESTRE\Prog3\CalviArceDavidAriel_Arbol_decisiones\obj\Debug\CalviArceDavidAriel_Arbol_decisiones_MarkupCompile.lref
+D:\Univalle\3 SEMESTRE\Prog3\CalviArceDavidAriel_Arbol_decisiones\obj\Debug\MainWindow.baml
+D:\Univalle\3 SEMESTRE\Prog3\CalviArceDavidAriel_Arbol_decisiones\obj\Debug\CalviArceDavidAriel_Arbol_decisiones.g.resources
+D:\Univalle\3 SEMESTRE\Prog3\CalviArceDavidAriel_Arbol_decisiones\obj\Debug\CalviArceDavidAriel_Arbol_decisiones.Properties.Resources.resources
+D:\Univalle\3 SEMESTRE\Prog3\CalviArceDavidAriel_Arbol_decisiones\obj\Debug\CalviArceDavidAriel_Arbol_decisiones.csproj.GenerateResource.cache
+D:\Univalle\3 SEMESTRE\Prog3\CalviArceDavidAriel_Arbol_decisiones\obj\Debug\CalviArceDavidAriel_Arbol_decisiones.csproj.CoreCompileInputs.cache
+D:\Univalle\3 SEMESTRE\Prog3\CalviArceDavidAriel_Arbol_decisiones\obj\Debug\CalviArceDavidAriel_Arbol_decisiones.exe
+D:\Univalle\3 SEMESTRE\Prog3\CalviArceDavidAriel_Arbol_decisiones\obj\Debug\CalviArceDavidAriel_Arbol_decisiones.pdb
