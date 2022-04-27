@@ -1,0 +1,8 @@
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\AbstractFactory_Pizza\obj\Debug\AbstractFactory_Pizza.csproj.AssemblyReference.cache
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\AbstractFactory_Pizza\obj\Debug\AbstractFactory_Pizza.csproj.SuggestedBindingRedirects.cache
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\AbstractFactory_Pizza\obj\Debug\AbstractFactory_Pizza.csproj.CoreCompileInputs.cache
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\AbstractFactory_Pizza\bin\Debug\AbstractFactory_Pizza.exe.config
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\AbstractFactory_Pizza\bin\Debug\AbstractFactory_Pizza.exe
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\AbstractFactory_Pizza\bin\Debug\AbstractFactory_Pizza.pdb
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\AbstractFactory_Pizza\obj\Debug\AbstractFactory_Pizza.exe
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\AbstractFactory_Pizza\obj\Debug\AbstractFactory_Pizza.pdb
