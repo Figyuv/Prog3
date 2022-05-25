@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F00C00C2-25E5-4E83-A697-5ED883743254}</ProjectGuid>
+    <ProjectGuid>{E347C93B-DE2A-4403-B4D0-5A8A8FBE7532}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AbstractFactory_Pizza</RootNamespace>
-    <AssemblyName>AbstractFactory_Pizza</AssemblyName>
+    <RootNamespace>email</RootNamespace>
+    <AssemblyName>email</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,24 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Abstract Products\Empanada.cs" />
-    <Compile Include="Abstract Products\Helado.cs" />
-    <Compile Include="Abstract Products\Pizza.cs" />
-    <Compile Include="Factories\PizzeriaArgentina.cs" />
-    <Compile Include="Factories\PizzeriaItaliana.cs" />
-    <Compile Include="Pizzeria.cs" />
-    <Compile Include="Products\EmanadaCapresse.cs" />
-    <Compile Include="Products\EmpanadaCarne.cs" />
-    <Compile Include="Products\HeladoAgua.cs" />
-    <Compile Include="Products\HeladoCrema.cs" />
-    <Compile Include="Products\PizzaHawaiana.cs" />
-    <Compile Include="Products\PizzaNapolitana.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

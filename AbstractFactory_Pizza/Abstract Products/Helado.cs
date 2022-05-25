@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstractFactory_Pizza.Abstract_Products
 {
-    public abstract class Pizza
+    public abstract class Helado
     {
         protected string _descripcion;
 

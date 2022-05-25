@@ -16,13 +16,15 @@ namespace AbstractFactory_Pizza
 
             fabrica = new PizzeriaArgentina();
             Pizza pizza = fabrica.CrearPizza();
+            Helado helado = fabrica.CrearHelado();
             Empanada empanada = fabrica.CrearEmpanada();
-            Console.WriteLine($"Pizza: {pizza.Descripcion}, Empanada: {empanada.Descripcion}");
+            Console.WriteLine($"Pizza: {pizza.Descripcion}, Empanada: {empanada.Descripcion}, Helado: {helado.Descripcion}");
 
             fabrica = new PizzeriaItaliana();
             pizza = fabrica.CrearPizza();
+            helado = fabrica.CrearHelado();
             empanada = fabrica.CrearEmpanada();
-            Console.WriteLine($"Pizza: {pizza.Descripcion}, Empanada: {empanada.Descripcion}");
+            Console.WriteLine($"Pizza: {pizza.Descripcion}, Empanada: {empanada.Descripcion}, Helado: {helado.Descripcion}");
 
             Console.ReadKey();
 

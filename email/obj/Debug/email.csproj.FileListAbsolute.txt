@@ -1,0 +1,8 @@
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\email\bin\Debug\email.exe.config
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\email\bin\Debug\email.exe
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\email\bin\Debug\email.pdb
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\email\obj\Debug\email.csproj.AssemblyReference.cache
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\email\obj\Debug\email.csproj.SuggestedBindingRedirects.cache
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\email\obj\Debug\email.csproj.CoreCompileInputs.cache
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\email\obj\Debug\email.exe
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\email\obj\Debug\email.pdb

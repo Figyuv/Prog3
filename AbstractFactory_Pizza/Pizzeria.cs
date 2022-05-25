@@ -11,5 +11,6 @@ namespace AbstractFactory_Pizza
     {
         public abstract Pizza CrearPizza();
         public abstract Empanada CrearEmpanada();
+        public abstract Helado CrearHelado();
     }
 }

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f00c00c2-25e5-4e83-a697-5ed883743254": {
+      "ProjectGuid": "f00c00c2-25e5-4e83-a697-5ed883743254",
+      "DisplayName": "AbstractFactory_Pizza",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

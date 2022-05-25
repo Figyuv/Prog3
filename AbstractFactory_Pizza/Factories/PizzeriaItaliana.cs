@@ -19,5 +19,10 @@ namespace AbstractFactory_Pizza.Factories
         {
             return new PizzaNapolitana();
         }
+
+        public override Helado CrearHelado()
+        {
+            return new HeladoCrema();
+        }
     }
 }

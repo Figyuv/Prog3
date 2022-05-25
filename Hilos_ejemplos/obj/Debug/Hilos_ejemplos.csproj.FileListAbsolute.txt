@@ -1,0 +1,17 @@
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\bin\Debug\Hilos_ejemplos.exe.config
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\bin\Debug\Hilos_ejemplos.exe
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\bin\Debug\Hilos_ejemplos.pdb
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.csproj.AssemblyReference.cache
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\Ejercicio2.g.cs
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\MainWindow.g.cs
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\App.g.cs
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\Hilos_ejemplos_MarkupCompile.cache
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\Hilos_ejemplos_MarkupCompile.lref
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\Ejercicio2.baml
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\MainWindow.baml
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.g.resources
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.Properties.Resources.resources
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.csproj.GenerateResource.cache
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.exe
+C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.pdb
