@@ -1,0 +1,6 @@
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\bin\Debug\ClasesProyectoProg.dll
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\bin\Debug\ClasesProyectoProg.pdb
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\obj\Debug\ClasesProyectoProg.csproj.AssemblyReference.cache
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\obj\Debug\ClasesProyectoProg.csproj.CoreCompileInputs.cache
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\obj\Debug\ClasesProyectoProg.dll
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\obj\Debug\ClasesProyectoProg.pdb

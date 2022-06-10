@@ -1,0 +1,11 @@
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\ConsoleApp1\bin\Debug\ClasesProyectoProg.dll
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\ConsoleApp1\bin\Debug\ClasesProyectoProg.pdb
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\ClasesProyectoProg\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

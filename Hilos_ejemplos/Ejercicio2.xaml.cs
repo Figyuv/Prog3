@@ -49,7 +49,8 @@ namespace Hilos_ejemplos
                 Thread.Sleep(70);
                 if (i == 100) { MessageBox.Show("Barra 1 finalizada"); }
             }
-        }public void Actualiza1(int valor) 
+        }
+        public void Actualiza1(int valor) 
         {
             bar1.Value= valor;
         }

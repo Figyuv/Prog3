@@ -15,3 +15,21 @@ C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.csproj.G
 C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.csproj.CoreCompileInputs.cache
 C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.exe
 C:\Users\usuariocc\source\repos\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.pdb
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\bin\Debug\Hilos_ejemplos.exe.config
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\bin\Debug\Hilos_ejemplos.exe
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\bin\Debug\Hilos_ejemplos.pdb
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.csproj.AssemblyReference.cache
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.csproj.SuggestedBindingRedirects.cache
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\obj\Debug\Ejercicio2.g.cs
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\obj\Debug\MainWindow.g.cs
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\obj\Debug\App.g.cs
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\obj\Debug\Hilos_ejemplos_MarkupCompile.cache
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\obj\Debug\Hilos_ejemplos_MarkupCompile.lref
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\obj\Debug\Ejercicio2.baml
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\obj\Debug\MainWindow.baml
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.g.resources
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.Properties.Resources.resources
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.csproj.GenerateResource.cache
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.csproj.CoreCompileInputs.cache
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.exe
+D:\Univalle cosas\3 SEMESTRE\PROG3\Prog3\Hilos_ejemplos\obj\Debug\Hilos_ejemplos.pdb
