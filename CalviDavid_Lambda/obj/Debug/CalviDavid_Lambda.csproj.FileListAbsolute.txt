@@ -1,8 +1,0 @@
-D:\Univalle cosas\3 SEMESTRE\PROG3\CalviDavid_Lambda\bin\Debug\CalviDavid_Lambda.exe.config
-D:\Univalle cosas\3 SEMESTRE\PROG3\CalviDavid_Lambda\bin\Debug\CalviDavid_Lambda.exe
-D:\Univalle cosas\3 SEMESTRE\PROG3\CalviDavid_Lambda\bin\Debug\CalviDavid_Lambda.pdb
-D:\Univalle cosas\3 SEMESTRE\PROG3\CalviDavid_Lambda\obj\Debug\CalviDavid_Lambda.csproj.AssemblyReference.cache
-D:\Univalle cosas\3 SEMESTRE\PROG3\CalviDavid_Lambda\obj\Debug\CalviDavid_Lambda.csproj.SuggestedBindingRedirects.cache
-D:\Univalle cosas\3 SEMESTRE\PROG3\CalviDavid_Lambda\obj\Debug\CalviDavid_Lambda.csproj.CoreCompileInputs.cache
-D:\Univalle cosas\3 SEMESTRE\PROG3\CalviDavid_Lambda\obj\Debug\CalviDavid_Lambda.exe
-D:\Univalle cosas\3 SEMESTRE\PROG3\CalviDavid_Lambda\obj\Debug\CalviDavid_Lambda.pdb
