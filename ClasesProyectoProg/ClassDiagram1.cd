@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="ClasesProyectoProg.Controlador.ConferenciaContr" Collapsed="true">
-    <Position X="7" Y="1.5" Width="1.5" />
+  <Class Name="ClasesProyectoProg.Controlador.ConferenciaContr">
+    <Position X="3.75" Y="2.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAEAAAAABBAAAAAAAAAAAQIAAAAAAAAAAAAAAAAIAAA=</HashCode>
       <FileName>Controlador\ConferenciaContr.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="ClasesProyectoProg.Controlador.UsuarioContr" Collapsed="true">
-    <Position X="7.25" Y="3.5" Width="1.5" />
+  <Class Name="ClasesProyectoProg.Controlador.UsuarioContr">
+    <Position X="5.5" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAEAAAAABAAAAAAAAAAAAQAAAAAAAABAAAAAAAAIAAA=</HashCode>
       <FileName>Controlador\UsuarioContr.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="ClasesProyectoProg.Modelo.Conferencia" Collapsed="true">
-    <Position X="5.25" Y="1.5" Width="1.5" />
+  <Class Name="ClasesProyectoProg.Modelo.Conferencia">
+    <Position X="11" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACAAAAAEAAAAAAAAAAAAQAAAAAAAABAAAAAIAAAAA=</HashCode>
       <FileName>Modelo\Conferencia.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="ClasesProyectoProg.Modelo.Usuario" Collapsed="true">
-    <Position X="5.5" Y="3.5" Width="1.5" />
+  <Class Name="ClasesProyectoProg.Modelo.Usuario">
+    <Position X="9.25" Y="4.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAgAAABAAAAAAAAA=</HashCode>
       <FileName>Modelo\Usuario.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="ClasesProyectoProg.Vista.ConferenciaView" Collapsed="true">
-    <Position X="8.75" Y="1.5" Width="1.5" />
+  <Class Name="ClasesProyectoProg.Vista.ConferenciaView">
+    <Position X="7.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAQAAAAA=</HashCode>
       <FileName>Vista\ConferenciaView.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="ClasesProyectoProg.Vista.UsuarioView" Collapsed="true">
-    <Position X="9" Y="3.5" Width="1.5" />
+  <Class Name="ClasesProyectoProg.Vista.UsuarioView">
+    <Position X="9.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAEAAAAAAAAAAA=</HashCode>
       <FileName>Vista\UsuarioView.cs</FileName>

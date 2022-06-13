@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Prog3" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-IKHGEMFV\SQLEXPRESS;Initial Catalog=Prog3;Persist Security Info=True;User ID=sa" SettingsObjectName="ConsoleApp1.Properties.Settings" SettingsPropertyName="Prog3ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.asistencia" Member="asistencia">
+    <Type Name="asistencia">
+      <Column Name="idUsuario" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="idConferencia" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Association Name="Conferencia_asistencia" Member="Conferencia" ThisKey="idConferencia" OtherKey="idConferencia" Type="Conferencia" IsForeignKey="true" />
+      <Association Name="Usuario_asistencia" Member="Usuario" ThisKey="idUsuario" OtherKey="idUsuario" Type="Usuario" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Conferencia" Member="Conferencia">
+    <Type Name="Conferencia">
+      <Column Name="idConferencia" Type="System.Int16" DbType="SmallInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nombreConferencia" Type="System.String" DbType="VarChar(70) NOT NULL" CanBeNull="false" />
+      <Column Name="inicio" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="final" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Association Name="Conferencia_asistencia" Member="asistencia" ThisKey="idConferencia" OtherKey="idConferencia" Type="asistencia" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Usuario" Member="Usuario">
+    <Type Name="Usuario">
+      <Column Name="idUsuario" Type="System.Int16" DbType="SmallInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NombreUsuario" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="rol" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Association Name="Usuario_asistencia" Member="asistencia" ThisKey="idUsuario" OtherKey="idUsuario" Type="asistencia" />
+    </Type>
+  </Table>
+</Database>

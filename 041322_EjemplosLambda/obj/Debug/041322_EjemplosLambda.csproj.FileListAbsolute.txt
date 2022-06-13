@@ -1,8 +1,0 @@
-D:\Univalle\3 SEMESTRE\Prog3\041322_EjemplosLambda\bin\Debug\041322_EjemplosLambda.exe.config
-D:\Univalle\3 SEMESTRE\Prog3\041322_EjemplosLambda\bin\Debug\041322_EjemplosLambda.exe
-D:\Univalle\3 SEMESTRE\Prog3\041322_EjemplosLambda\bin\Debug\041322_EjemplosLambda.pdb
-D:\Univalle\3 SEMESTRE\Prog3\041322_EjemplosLambda\obj\Debug\041322_EjemplosLambda.csproj.AssemblyReference.cache
-D:\Univalle\3 SEMESTRE\Prog3\041322_EjemplosLambda\obj\Debug\041322_EjemplosLambda.csproj.SuggestedBindingRedirects.cache
-D:\Univalle\3 SEMESTRE\Prog3\041322_EjemplosLambda\obj\Debug\041322_EjemplosLambda.csproj.CoreCompileInputs.cache
-D:\Univalle\3 SEMESTRE\Prog3\041322_EjemplosLambda\obj\Debug\041322_EjemplosLambda.exe
-D:\Univalle\3 SEMESTRE\Prog3\041322_EjemplosLambda\obj\Debug\041322_EjemplosLambda.pdb
